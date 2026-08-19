@@ -1,6 +1,4 @@
-# ADA program
-This is my first git repository
-'''
+'''c
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
